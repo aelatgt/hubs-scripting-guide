@@ -1,0 +1,13 @@
+{
+  "name": "hubs-scripting-guide",
+  "license": "MIT",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ngrok": "^3.4.0",
+    "serve-index": "^1.9.1"
+  }
+}
